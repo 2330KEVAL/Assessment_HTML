@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contact {
+    margin: 15px;
+    padding: 15px;
+}
+
+
+.div {
+    background-color: powderblue;
+    height: 630px;
+    width: 1020px;
+    margin: auto;
+    border: none;
+}
+
+.add {
+    background-color: white;
+    height: 100px;
+    width: 850px;
+    margin: 21px;
+}
+
+.add p {
+    margin:10px;
+    padding: 5px;
+}
+
+.address-icon i {
+    font-size: 36px;
+    line-height: 32px;
+}
+
+.icons i {
+    color: #fff;
+    padding: 8px 0px;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+}
+.btn{
+    background-color: rgb(253, 57, 57);
+}
